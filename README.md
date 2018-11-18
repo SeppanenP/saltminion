@@ -1,9 +1,9 @@
 # Tehdään koneesta Saltminion
 
 Tämä varasto liittyy Palvelinten hallinta ict4tn022-3004 kurssiin, jossa tehtävänä oli tehdä skripti jolla saat tehtyä koneesta orjan.
-Minulla on tehtävää varten virtuaalikoneella Salt-Master ja ajan run.sh tiedoston livetikulle, jossa Ubuntu 18.04.
+Minulla on tehtävää varten virtuaalikoneella Salt-Master ja ajan run.sh tiedoston livetikulle, jossa Xubuntu 18.04.
 
-Aluksi kävin katsomassa alkuperäisen tiedoston kurssin opettajan github-varastosta.
+Aluksi kävin katsomassa ja kopioimassa omaan varastooni alkuperäisen tiedoston kurssin opettajan github-varastosta.
 
 https://github.com/terokarvinen/sirotin
 
