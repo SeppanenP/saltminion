@@ -9,7 +9,9 @@ https://github.com/terokarvinen/sirotin
 
 Ja muokkasin sitä niin että muutin sinne tämän varaston polun ja oman testipalvelimeni IP-osoitteen.
 
-Tämän jälkeen anna haluamalleni orjakoneelle komennot:
+Tämän jälkeen annan haluamalleni orjakoneelle komennot:
 
-    wget https://raw.githubusercontent.com/SeppanenP/saltminion/run.sh
+    wget https://raw.githubusercontent.com/SeppanenP/saltminion/master/run.sh
     bash run.sh
+    
+  
