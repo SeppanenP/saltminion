@@ -11,7 +11,7 @@ sudo apt-get -y install git salt-minion
 
 echo "Retrieving and Applying Settings..."
 echo 'master: 142.93.234.3'|sudo tee /etc/salt/minion
-sudo systemctl restart salt-minion
+sudo systemctl restart salt-minion.service
 
 git clone https://github.com/SeppanenP/saltminion
 cd salminion/
