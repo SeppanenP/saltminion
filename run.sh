@@ -22,8 +22,8 @@ setxkbmap fi
 sudo timedatectl set-timezone Europe/Helsinki
 git config --global credential.helper "cache --timeout=3600"
 git config --global push.default simple
-# git config --global user.email "pseppanen@test.test"
-# git config --global user.name "pseppanen"
+git config --global user.email "pseppanen@test.test"
+git config --global user.name "pseppanen"
 
 echo "More tips on http://terokarvinen.com/tag/saltstack"
 echo "Done."
